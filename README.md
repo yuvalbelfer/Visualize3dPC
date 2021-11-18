@@ -10,6 +10,11 @@ To do so we used the following methods:
 - Grad-CAM, meaning class activation response maps via the gradients of the loss w.r.t the latent features.
 - Point cloud synthesis by optimizing a random input to have the latent features of a given input from the data.
 
+## Video presentation
+
+https://user-images.githubusercontent.com/18037315/142372513-f1f62928-0b30-4795-bf7b-b80d0dfe5dcc.mp4
+
+
 ## Results
 
 ### Clustering of the per point latent features of a single example.
